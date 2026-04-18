@@ -10,6 +10,15 @@
 7. [Project Structure / Cấu Trúc Dự Án](#project-structure)
 8. [Team Members / Thành Viên Nhóm](#team-members)
 
+
+## Team Members / Thành Viên Nhóm
+
+| # | Name / Tên | Student ID / MSSV |
+|---|------------|------------------|
+| 1 | Phạm Đức Huy | 23134026 |
+| 2 | Vũ Phạm Đức Văn | 23134064 |
+| 3 | Trương Hồng Lĩnh | 23134035 |
+
 ---
 
 ## Project Overview
@@ -346,20 +355,6 @@ project/
 ├── stop.sh                                    # Stop all processes
 └── ...
 ```
-
----
-
-## Team Members / Thành Viên Nhóm
-
-| # | Name / Tên | Student ID / MSSV |
-|---|------------|------------------|
-| 1 | [Phạm Đức Huy] | [23134026] |
-| 2 | [Vũ Phạm Đức Văn] | [23134064] |
-| 3 | [Trương Hồng Lĩnh] | [23134035] |
-
-**Instructions / Hướng dẫn**: Please replace the placeholder names, student IDs (MSSV), and email addresses with actual team member information. / Vui lòng thay thế tên, mã số sinh viên (MSSV) và địa chỉ email bằng thông tin thành viên nhóm thực tế.
-
----
 
 ## Troubleshooting
 
