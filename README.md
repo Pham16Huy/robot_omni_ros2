@@ -351,12 +351,11 @@ project/
 
 ## Team Members / Thành Viên Nhóm
 
-| # | Name / Tên | Student ID / MSSV | Role / Vai Trò | Email |
-|---|------------|------------------|-----------------|-------|
-| 1 | [Member Name 1] | [MSSV] | Robot Hardware / Phần cứng Robot | [email@example.com] |
-| 2 | [Member Name 2] | [MSSV] | Navigation System / Hệ thống Điều hướng | [email@example.com] |
-| 3 | [Member Name 3] | [MSSV] | Simulation & Testing / Mô phỏng & Kiểm thử | [email@example.com] |
-| 4 | [Member Name 4] | [MSSV] | Integration & Deployment / Tích hợp & Triển khai | [email@example.com] |
+| # | Name / Tên | Student ID / MSSV |
+|---|------------|------------------|
+| 1 | [Phạm Đức Huy] | [23134026] |
+| 2 | [Vũ Phạm Đức Văn] | [23134064] |
+| 3 | [Trương Hồng Lĩnh] | [23134035] |
 
 **Instructions / Hướng dẫn**: Please replace the placeholder names, student IDs (MSSV), and email addresses with actual team member information. / Vui lòng thay thế tên, mã số sinh viên (MSSV) và địa chỉ email bằng thông tin thành viên nhóm thực tế.
 
