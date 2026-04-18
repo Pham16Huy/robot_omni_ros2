@@ -1,0 +1,67 @@
+rooms:
+# Cạnh trai
+  room1:
+    frame_id: map
+    x: 18.0
+    y: 6.0
+    z: 0.0
+    yaw: 0.0
+  room2:
+    frame_id: map
+    x: 32.0
+    y: 6
+    z: 0.0
+    yaw: 0.0
+#  duoi cung
+  room3:
+    frame_id: map
+    x: 34.0
+    y: 6.0
+    z: 0.0
+    yaw: -1.57
+# Canh phai
+  room4:
+    frame_id: map
+    x: 34.0
+    y: -6.0
+    z: 0.0
+    yaw: -3.14
+  room5:
+    frame_id: map
+    x: 32.0
+    y: -6.0
+    z: 0.0
+    yaw: -3.14
+  room6:
+    frame_id: map
+    x: 18.0
+    y: -6.0
+    z: 0.0
+    yaw: -3.14
+
+# giua
+  room7:
+    frame_id: map
+    x: 24.0
+    y: -3.0
+    z: 0.0
+    yaw: -1.57
+
+  room8:
+    frame_id: map
+    x: 24.0
+    y: 3.0
+    z: 0.0
+    yaw: -1.57
+  room9:
+    frame_id: map
+    x: 8.0
+    y: -3.0
+    z: 0.0
+    yaw: -1.57
+  room10:
+    frame_id: map
+    x: 8.0
+    y: 3.0
+    z: 0.0
+    yaw: -1.57

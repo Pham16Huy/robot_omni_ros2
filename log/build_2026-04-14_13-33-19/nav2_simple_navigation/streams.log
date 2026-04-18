@@ -1,0 +1,29 @@
+[1.449s] Invoking command in '/home/huy/Downloads/project/src/nav2_simple_navigation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/huy/Downloads/project/build/nav2_simple_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/huy/Downloads/project/install/nav2_simple_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/nav2_simple_navigation build --build-base /home/huy/Downloads/project/build/nav2_simple_navigation/build install --record /home/huy/Downloads/project/build/nav2_simple_navigation/install.log --single-version-externally-managed install_data
+[1.893s] running egg_info
+[1.926s] writing ../../build/nav2_simple_navigation/nav2_simple_navigation.egg-info/PKG-INFO
+[1.927s] writing dependency_links to ../../build/nav2_simple_navigation/nav2_simple_navigation.egg-info/dependency_links.txt
+[1.927s] writing entry points to ../../build/nav2_simple_navigation/nav2_simple_navigation.egg-info/entry_points.txt
+[1.927s] writing requirements to ../../build/nav2_simple_navigation/nav2_simple_navigation.egg-info/requires.txt
+[1.927s] writing top-level names to ../../build/nav2_simple_navigation/nav2_simple_navigation.egg-info/top_level.txt
+[1.991s] reading manifest file '../../build/nav2_simple_navigation/nav2_simple_navigation.egg-info/SOURCES.txt'
+[1.992s] writing manifest file '../../build/nav2_simple_navigation/nav2_simple_navigation.egg-info/SOURCES.txt'
+[1.992s] running build
+[1.993s] running build_py
+[1.993s] running install
+[2.001s] running install_lib
+[2.033s] running install_data
+[2.033s] copying launch/nav2_control.launch.py -> /home/huy/Downloads/project/install/nav2_simple_navigation/share/nav2_simple_navigation/launch
+[2.033s] running install_egg_info
+[2.075s] removing '/home/huy/Downloads/project/install/nav2_simple_navigation/lib/python3.12/site-packages/nav2_simple_navigation-0.0.0-py3.12.egg-info' (and everything under it)
+[2.075s] Copying ../../build/nav2_simple_navigation/nav2_simple_navigation.egg-info to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/python3.12/site-packages/nav2_simple_navigation-0.0.0-py3.12.egg-info
+[2.077s] running install_scripts
+[2.331s] Installing bt_nav script to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/nav2_simple_navigation
+[2.334s] Installing circle_nav script to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/nav2_simple_navigation
+[2.335s] Installing go_to_room script to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/nav2_simple_navigation
+[2.335s] Installing go_to_rooms script to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/nav2_simple_navigation
+[2.335s] Installing pose_debugger script to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/nav2_simple_navigation
+[2.335s] Installing rviz_route_manager script to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/nav2_simple_navigation
+[2.335s] Installing square_nav script to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/nav2_simple_navigation
+[2.335s] Installing yaw_debugger script to /home/huy/Downloads/project/install/nav2_simple_navigation/lib/nav2_simple_navigation
+[2.335s] writing list of installed files to '/home/huy/Downloads/project/build/nav2_simple_navigation/install.log'
+[2.468s] Invoked command in '/home/huy/Downloads/project/src/nav2_simple_navigation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/huy/Downloads/project/build/nav2_simple_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/huy/Downloads/project/install/nav2_simple_navigation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/nav2_simple_navigation build --build-base /home/huy/Downloads/project/build/nav2_simple_navigation/build install --record /home/huy/Downloads/project/build/nav2_simple_navigation/install.log --single-version-externally-managed install_data

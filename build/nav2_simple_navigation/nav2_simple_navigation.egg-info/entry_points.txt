@@ -1,0 +1,9 @@
+[console_scripts]
+bt_nav = nav2_simple_navigation.bt_nav:main
+circle_nav = nav2_simple_navigation.circle_nav:main
+go_to_room = nav2_simple_navigation.go_to_room:main
+go_to_rooms = nav2_simple_navigation.go_to_rooms:main
+pose_debugger = nav2_simple_navigation.debug_pose:main
+rviz_route_manager = nav2_simple_navigation.rviz_route_manager:main
+square_nav = nav2_simple_navigation.square_nav:main
+yaw_debugger = nav2_simple_navigation.debug_yaw:main
